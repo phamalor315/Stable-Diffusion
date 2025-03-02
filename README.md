@@ -1,15 +1,5 @@
 # Stable-Diffusion
 
-table of contents
-
-[text to image](https://github.com/phamalor315/Stable-Diffusion?tab=readme-ov-file#text-to-image)
-
-[text to video](https://github.com/phamalor315/Stable-Diffusion?tab=readme-ov-file#text-to-video)
-
-[image to image](https://github.com/phamalor315/Stable-Diffusion?tab=readme-ov-file#image-to-image)
-
-[image to video](https://github.com/phamalor315/Stable-Diffusion?tab=readme-ov-file#image-to-video)
-
 ### Text-to-Image
 Text-to-image models generate images based on textual descriptions. They use techniques from natural language processing (NLP) and computer vision to understand the input text and produce corresponding images. Models like DALL-E and Stable Diffusion are popular examples. You can provide a description like "a serene beach at sunset," and the model will create an image that matches the description.
 
